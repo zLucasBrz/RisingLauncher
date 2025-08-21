@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "packageUrl": "https://github.com/zLucasBrz/RisingLauncher/releases/download/v1.0.4/payload-1.0.4-win-x64.zip",
-  "sha256": "E82F5CFD6B45ED78A5580E343423D764C747A02E3F1A316B83AA5F933AA6BC1E",
+  "version": "1.0.5",
+  "packageUrl": "https://github.com/zLucasBrz/RisingLauncher/releases/download/v1.0.5/payload-1.0.5-win-x64.zip",
+  "sha256": "813E4C6A31140D37A7BE0C6CB4551AC1AC0F325C63F5BE5DADCEDD806DF38F79",
   "mandatory": false
 }
