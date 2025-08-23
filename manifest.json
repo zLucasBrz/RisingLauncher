@@ -2,5 +2,10 @@
   "version": "1.1.0",
   "packageUrl": "https://github.com/zLucasBrz/RisingLauncher/releases/download/v1.1.0/payload-1.1.0-win-x64.zip",
   "sha256": "862dc5fca7799e092de58dbc539223df6eb579799a9602fec469769456269b6b",
-  "mandatory": false
+  "mandatory": false,
+  
+  "modpacks": {
+    "cobblemon_version": "1.0",
+    "pixelmon_version": "1.0"
+  }
 }
