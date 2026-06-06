@@ -1,7 +1,7 @@
 {
-  "version": "1.1.3",
-  "packageUrl": "https://github.com/zLucasBrz/RisingLauncher/releases/download/v1.1.3/payload-1.1.3-win-x64.zip",
-  "sha256": "AAEB4CAF75C97A923AD47064A45792C2BB82D52D893C81807B6663322F6E2675",
+  "version": "1.1.4",
+  "packageUrl": "https://github.com/zLucasBrz/RisingLauncher/releases/download/v1.1.4/payload-1.1.4-win-x64.zip",
+  "sha256": "365B74A6D5446A865ED148A9E3C3068376EA10AEC434E647832B8E09B9AECB3E",
   "mandatory": false,
 
   "modpacks": {
