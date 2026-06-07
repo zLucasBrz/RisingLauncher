@@ -6,6 +6,11 @@
 
   "modpacks": {
     "cobblemon_version": "1.0",
-    "pixelmon_version": "1.0"
+    "cobblemon_mods_url": "https://github.com/zLucasBrz/RisingLauncher/releases/download/modpacks/cobblemon-mods-1.0.zip",
+    "cobblemon_mods_sha256": "5E66D19C94A87F46F252A0594DA9A2CCC717AD06699DD11EC4FAACE75DD13EE9",
+
+    "pixelmon_version": "1.0",
+    "pixelmon_mods_url": "https://github.com/zLucasBrz/RisingLauncher/releases/download/modpacks/pixelmon-mods-1.0.zip",
+    "pixelmon_mods_sha256": "88E818FFFF887161CB1C322204BFD132EF7EE89910554BA461B52DED2B500B69"
   }
 }
